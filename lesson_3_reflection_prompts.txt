@@ -23,3 +23,6 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
     Fill in your answer here
+    
+
+Senario 1: I changed locally and I change here. Than I will try to pull or push. Let's see what happens.
