@@ -26,3 +26,4 @@ When would you want to make changes in a separate branch rather than directly in
     
 
 Senario 1: I changed locally and I change here. Than I will try to pull or push. Let's see what happens.
+How it works: I have first to pull changes made remotely and merge them loccally, and then i can push them.
